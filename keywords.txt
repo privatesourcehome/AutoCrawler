@@ -1,2 +1,9 @@
-cat
-dog
+animal
+beach
+bird
+cave
+cliff
+forest
+moon
+mountain
+waterfall
